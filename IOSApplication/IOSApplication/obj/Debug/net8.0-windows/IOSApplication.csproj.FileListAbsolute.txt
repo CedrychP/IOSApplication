@@ -1,0 +1,17 @@
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.exe
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.deps.json
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.runtimeconfig.json
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.dll
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.pdb
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.Form1.resources
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.csproj.GenerateResource.cache
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.AssemblyInfoInputs.cache
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.AssemblyInfo.cs
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.csproj.CoreCompileInputs.cache
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.sourcelink.json
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.dll
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\refint\IOSApplication.dll
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.pdb
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.genruntimeconfig.cache
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\ref\IOSApplication.dll
