@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IOSApplication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b009fc923874c966f1c2796d02c1fc784b98831")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c07597bc223583e62afaa9272b9a3e45aba7135d")]
 [assembly: System.Reflection.AssemblyProductAttribute("IOSApplication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IOSApplication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

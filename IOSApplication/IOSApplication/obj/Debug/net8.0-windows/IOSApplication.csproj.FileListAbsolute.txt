@@ -3,7 +3,6 @@ E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\De
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.runtimeconfig.json
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.dll
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\bin\Debug\net8.0-windows\IOSApplication.pdb
-E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.Form1.resources
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.csproj.GenerateResource.cache
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.GeneratedMSBuildEditorConfig.editorconfig
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.AssemblyInfoInputs.cache
@@ -15,3 +14,7 @@ E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\De
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.pdb
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.genruntimeconfig.cache
 E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\ref\IOSApplication.dll
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.AusgabeForm.resources
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.DatumEingabeForm.resources
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.EingabeForm.resources
+E:\Visual Studio Repo\IOSApplicationProject\IOSApplication\IOSApplication\obj\Debug\net8.0-windows\IOSApplication.MenuForm.resources
